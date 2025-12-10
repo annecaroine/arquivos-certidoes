@@ -16,36 +16,37 @@
   "Local_Nasc": [311, 411],
   "UF_Local_Nasc": [490, 411],
 
-  "Sexo": [690, 380],
+  "Sexo": [606, 411],
 
   "Pai": [77, 458],
   "Mae": [77, 470],
 
-  "Avos_Paternos": [77, 514],
+  "Avos_Paternos": [77, 512],
   "Avos_Maternos": [77, 530], 
 
   "Gemeo": [77, 563],
   "Nome_Gemeo": [136, 563],
   "Matricula_Gemeo": [391, 563],
 
-  "Data_Registro_Extenso": [77, 596],
-  "DNV": [366, 596],
+  "Data_Registro_Extenso": [77, 599],
+  "DNV": [366, 599],
 
-  "Observacoes": [77, 642],
+  "Observacoes": [77, 645],
 
-  "Anotacoes_Cadastro": [77, 690],
+  "Anotacoes_Cadastro": [77, 699],
 
-  "CNS": [86, 704],
-  "Cartorio": [86, 720],
-  "Oficial_Responsavel": [86, 738],
-  "Endereco_Cartorio": [86, 758],
-  "CEP": [86, 778],
-  "Telefone1": [86, 797],
-  "Telefone2": [86, 797],
-  "Email_Cartorio": [86, 816],
+  "CNS": [86, 724],
+  "Cartorio": [86, 739],
+  "Oficial_Responsavel": [86, 748],
+  "Endereco_Cartorio": [86, 778],
+  "CEP": [86, 790],
+  "Telefone1": [86, 827],
+  "Telefone2": [86, 8/27],
+  "Email_Cartorio": [86, 846],
 
   "Declaracao_Dou_Fe": [370, 860]
 }
+
 
 
 
