@@ -16,13 +16,13 @@
   "Local_Nasc": [311, 411],
   "UF_Local_Nasc": [490, 411],
 
-  "Sexo": [635, 391],  
+  "Sexo": [690, 380],
 
   "Pai": [77, 458],
   "Mae": [77, 470],
 
-  "Avos_Paternos": [77, 504],
-  "Avos_Maternos": [77, 540],
+  "Avos_Paternos": [77, 514],
+  "Avos_Maternos": [77, 530], 
 
   "Gemeo": [77, 563],
   "Nome_Gemeo": [136, 563],
@@ -33,17 +33,18 @@
 
   "Observacoes": [77, 642],
 
-  "Anotacoes_Cadastro": [77, 730],
+  "Anotacoes_Cadastro": [77, 690],
 
-  "CNS": [174, 734],
-  "Cartorio": [174, 750],
-  "Oficial_Responsavel": [174, 770],
-  "Endereco_Cartorio": [174, 790],
-  "CEP": [174, 810],
-  "Telefone1": [174, 829],
-  "Telefone2": [227, 829],
-  "Email_Cartorio": [174, 848],
-  "Declaracao_Dou_Fe": [370, 734]
+  "CNS": [86, 704],
+  "Cartorio": [86, 720],
+  "Oficial_Responsavel": [86, 738],
+  "Endereco_Cartorio": [86, 758],
+  "CEP": [86, 778],
+  "Telefone1": [86, 797],
+  "Telefone2": [86, 797],
+  "Email_Cartorio": [86, 816],
+
+  "Declaracao_Dou_Fe": [370, 860]
 }
 
 
